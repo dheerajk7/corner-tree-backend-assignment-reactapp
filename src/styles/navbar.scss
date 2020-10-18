@@ -1,6 +1,6 @@
 // styles for navbar container
 .navbar-container {
-  background-image: linear-gradient(to right, #e32e6f, #e72b79, #f1679d);
+  background-image: linear-gradient(to right, #031263, #0b1e88, #001aa8);
   height: 65px;
   font-weight: bolder;
   display: flex;
@@ -16,9 +16,11 @@
     margin-left: 20%;
     position: relative;
     input {
-      padding: 1%;
       border-radius: 5px;
       font-size: 1.2rem;
+      outline: none;
+      border: none;
+      padding: 5px;
     }
 
     .search-item-list {
@@ -39,14 +41,14 @@
       }
 
       li:hover {
-        background-color: #f1679d;
+        background-image: linear-gradient(to right, #031263, #0b1e88, #001aa8);
         color: white;
       }
 
       .loading:hover {
         cursor: default;
         color: black;
-        background-color: white;
+        background-image: linear-gradient(to right, white, white, white);
       }
     }
     .search-input:focus ~ .search-item-list {

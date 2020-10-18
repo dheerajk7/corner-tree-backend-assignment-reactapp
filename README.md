@@ -10,20 +10,20 @@ Link :- https://corner-tree-assignment.web.app/
 
 ### 1.Home
 
-![preview image](./assets/images/1.png)
+![preview image](./assets/images/1.jpg)
 
 ### 2. Search
 
-![preview image](./assets/images/2.png)
-![preview image](./assets/images/3.png)
+![preview image](./assets/images/2.jpg)
+![preview image](./assets/images/3.jpg)
 
 ### 3. Post Job
 
-![preview image](./assets/images/4.png)
+![preview image](./assets/images/4.jpg)
 
 ### 4. Dashboard
 
-![preview image](./assets/images/5.png)
+![preview image](./assets/images/5.jpg)
 
 # Various Functionality
 

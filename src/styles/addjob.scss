@@ -10,7 +10,7 @@
   .heading {
     font-size: 3.5rem;
     padding: 2%;
-    color: darkslategrey;
+    color: navy;
   }
 
   // form styles of add product
@@ -62,8 +62,8 @@
         cursor: pointer;
         padding: 0.5%;
         margin: 1% 4px 0px 0px;
-        background: lightpink;
-        color: navy;
+        background-image: linear-gradient(to right, #031263, #0b1e88, #001aa8);
+        color: white;
       }
 
       .core-skills-list {
@@ -78,10 +78,10 @@
     button {
       padding: 1.5%;
       width: 42%;
-      color: navy;
+      color: white;
       font-weight: bold;
       font-size: 1.5rem;
-      background: #5affc880;
+      background-image: linear-gradient(to right, #031263, #0b1e88, #001aa8);
       box-shadow: 0px 0px 2px 2px #423a3a;
       border: none;
       cursor: pointer;
@@ -90,7 +90,7 @@
 
     button:focus {
       outline: none;
-      background: #5affc8c2;
+      background-image: linear-gradient(to right, #031263, #0b1e88, #001aa8);
       box-shadow: 0px 0px 2px 2px #000000;
     }
   }
