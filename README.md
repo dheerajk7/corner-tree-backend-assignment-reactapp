@@ -4,7 +4,7 @@ It is a react app for mananging jobs.
 
 # Preview
 
-Link :- https://corner-tree-assignment.web.app/
+Link :- https://dheerajk7.github.io/corner-tree-backend-assignment-reactapp/
 
 ## Desktop View
 
@@ -37,13 +37,13 @@ Link :- https://corner-tree-assignment.web.app/
 
 # API Detail :-
 
-### API Repository Link :- https://github.com/dheerajk7/corner-tree-assignment-api.git
+### API Repository Link :- https://github.com/dheerajk7/corner-tree-backend-assignment-api.git
 
-### API Hosted Link :- https://corner-tree-assignment.herokuapp.com/api/v1
+### API Hosted Link :- https://corner-tree-frontend-assignmen.herokuapp.com/api/v1
 
 # Instructions to install
 
-1. Clone this repository from https://github.com/dheerajk7/corner-tree-react-app.git .
+1. Clone this repository from https://github.com/dheerajk7/corner-tree-backend-assignment-reactapp.git .
 2. Install NPM if you have not installed yet.
 3. Go to project directory and run these commands
 
