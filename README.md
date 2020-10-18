@@ -14,12 +14,12 @@ Link :- https://dheerajk7.github.io/corner-tree-backend-assignment-reactapp/
 
 ### 2. Search
 
-![preview image](./assets/images/2.jpg)
 ![preview image](./assets/images/3.jpg)
+![preview image](./assets/images/4.jpg)
 
 ### 3. Post Job
 
-![preview image](./assets/images/4.jpg)
+![preview image](./assets/images/2.jpg)
 
 ### 4. Dashboard
 
