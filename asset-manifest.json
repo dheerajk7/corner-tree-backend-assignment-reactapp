@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/corner-tree-backend-assignment-reactapp/static/css/main.85d3df81.chunk.css",
+    "main.js": "/corner-tree-backend-assignment-reactapp/static/js/main.d05c4573.chunk.js",
+    "main.js.map": "/corner-tree-backend-assignment-reactapp/static/js/main.d05c4573.chunk.js.map",
+    "runtime-main.js": "/corner-tree-backend-assignment-reactapp/static/js/runtime-main.501adcb5.js",
+    "runtime-main.js.map": "/corner-tree-backend-assignment-reactapp/static/js/runtime-main.501adcb5.js.map",
+    "static/js/2.d05cd725.chunk.js": "/corner-tree-backend-assignment-reactapp/static/js/2.d05cd725.chunk.js",
+    "static/js/2.d05cd725.chunk.js.map": "/corner-tree-backend-assignment-reactapp/static/js/2.d05cd725.chunk.js.map",
+    "index.html": "/corner-tree-backend-assignment-reactapp/index.html",
+    "precache-manifest.a53684447f8a0258ff93cb2a43b4c04f.js": "/corner-tree-backend-assignment-reactapp/precache-manifest.a53684447f8a0258ff93cb2a43b4c04f.js",
+    "service-worker.js": "/corner-tree-backend-assignment-reactapp/service-worker.js",
+    "static/css/main.85d3df81.chunk.css.map": "/corner-tree-backend-assignment-reactapp/static/css/main.85d3df81.chunk.css.map",
+    "static/js/2.d05cd725.chunk.js.LICENSE.txt": "/corner-tree-backend-assignment-reactapp/static/js/2.d05cd725.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.501adcb5.js",
+    "static/js/2.d05cd725.chunk.js",
+    "static/css/main.85d3df81.chunk.css",
+    "static/js/main.d05c4573.chunk.js"
+  ]
+}
